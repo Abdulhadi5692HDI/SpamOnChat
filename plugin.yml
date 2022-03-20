@@ -7,7 +7,3 @@ author: Abdulhadi5692HDI
 src-namespace-prefix: Abdulhadi5692HDI\SpamOnChat
 
 ...
-commands:
- require:
-  description: "§4SpamOnChat Plugin Requirements"
-  usage: "/require <args>"
