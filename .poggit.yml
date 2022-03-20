@@ -5,4 +5,5 @@ branches:
 projects:
   SpamOnChat:
     path: "."
+    icon: "icon.png"
 ...
