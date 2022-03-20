@@ -1,0 +1,13 @@
+---
+name: SpamOnChat
+version: 0.0.1
+main: Abdulhadi5692HDI\SpamOnChat\Main
+api: 4.2.3
+author: Abdulhadi5692HDI
+src-namespace-prefix: Abdulhadi5692HDI\SpamOnChat
+
+...
+commands:
+ require:
+  description: "§4SpamOnChat Plugin Requirements"
+  usage: "/require <args>"
